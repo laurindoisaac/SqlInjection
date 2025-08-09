@@ -1,2 +1,1 @@
-# SqlInjection
-CymaticShield Proactive SqlInjectionPrevention Guardian implementing modern AutomatedRuleUpdates patterns with Proactive architecture featuring AnomalyDetection capabilities
+.
